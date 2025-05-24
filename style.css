@@ -846,6 +846,8 @@
       
       .wrapper > div {
         grid-area: 1/1/-1/-1;
+          position: relative;
+               right: 690px;
       }
       .top {
         clip-path: polygon(0% 0%, 100% 0%, 100% 48%, 0% 58%);
